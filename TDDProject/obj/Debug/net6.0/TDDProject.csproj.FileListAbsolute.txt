@@ -1,0 +1,15 @@
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\bin\Debug\net6.0\TDDProject.exe
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\bin\Debug\net6.0\TDDProject.deps.json
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\bin\Debug\net6.0\TDDProject.runtimeconfig.json
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\bin\Debug\net6.0\TDDProject.dll
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\bin\Debug\net6.0\TDDProject.pdb
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\TDDProject.csproj.AssemblyReference.cache
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\TDDProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\TDDProject.AssemblyInfoInputs.cache
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\TDDProject.AssemblyInfo.cs
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\TDDProject.csproj.CoreCompileInputs.cache
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\TDDProject.dll
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\refint\TDDProject.dll
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\TDDProject.pdb
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\TDDProject.genruntimeconfig.cache
+C:\Users\Bella\OneDrive\Documentos\Training\DIO\.NetDeveloper\TDDProject\TDDProject\obj\Debug\net6.0\ref\TDDProject.dll
